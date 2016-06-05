@@ -4,7 +4,15 @@
   font-size: 60px;
   color: white;
   position: middle;
+  
+  .center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
 }
+
+
 
 #intro {
   font-family: Verdana;
