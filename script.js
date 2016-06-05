@@ -23,7 +23,7 @@ if(!Notification){
 if (Notification.permission =='granted'){
   new Notification('Bananas for sale', {
     icon: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Bananas_white_background_DS.jpg',
-    body: 'Bananas! $100 off';
+    body: 'Bananas! $100 off',
   })
   notification.onclick=function(){
     window.open('http://suburbanninjamc.github.io/-/');
