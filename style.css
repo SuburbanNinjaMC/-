@@ -2,11 +2,13 @@
   font-family: Verdana;
   font-style: italic;
   font-size: 60px;
+  color: white;
 }
 #intro {
   font-family: Verdana;
   font-style: italic;
   font-size: 20px;
+  color: white;
   border: 4px black;
   outline-color: green;
 }
@@ -24,6 +26,10 @@
   font-style: italic;
 }
 
+body {
+  color: black;
+}
+
 a:link, a:visited {
     background-color: #f44336;
     color: white;
@@ -36,5 +42,6 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: red;
 }
+
       
       
