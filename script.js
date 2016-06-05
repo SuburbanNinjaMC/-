@@ -13,4 +13,8 @@ function sayHello(){
 
 
 //Do not take away variable 'Notification' or the code below.
+document.addEventListener('DOMContentLoaded', function () {
+if (Notification.permission !== "granted")
+Notification.requestPermission();
+})
 notification = new Notification('Hi');
