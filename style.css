@@ -14,6 +14,10 @@
   font-size: 20px;
 }
 
+#MusicLabel {
+  font-family: Verdana;
+}
+
 a:link, a:visited {
     background-color: #f44336;
     color: white;
