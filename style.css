@@ -18,6 +18,11 @@
   font-family: Verdana;
 }
 
+#YouTubeChannel {
+  font-family: Verdana;
+  font-style: italic;
+}
+
 a:link, a:visited {
     background-color: #f44336;
     color: white;
