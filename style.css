@@ -3,7 +3,9 @@
   font-style: italic;
   font-size: 60px;
   color: white;
+  position: middle;
 }
+
 #intro {
   font-family: Verdana;
   font-style: italic;
