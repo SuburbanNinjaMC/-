@@ -1,0 +1,17 @@
+#Title {
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+#Paragraph {
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: black
+}
+
