@@ -15,7 +15,8 @@ div#fixedheader {
   width:100%;
   color:#CCC;
   background:#333;
-  padding:20px;
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
 /* This is the paragraph */
