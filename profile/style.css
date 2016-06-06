@@ -16,6 +16,26 @@ div#fixedheader {
   padding-bottom:20px;
 }
 
+#Home {
+  font-family: Verdana;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
 #Paragraph {
   font-family: Verdana;
   text-align: center;
