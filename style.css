@@ -61,7 +61,8 @@
 }
 
 #PhotoImage {
-  text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 /* Links inside the dropdown */
 .dropdown-content a {
