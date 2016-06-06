@@ -25,12 +25,6 @@ div#fixedheader {
   display: inline-block;
 }
 
-#Logo {
-  font-family: Verdana;
-  text-align: center;
-  float: right;
-}
-
 a:link {
     text-decoration: none;
     color: white;
