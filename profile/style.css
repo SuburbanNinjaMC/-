@@ -5,6 +5,17 @@
   font-style: italic;
 }
 
+div#fixedheader {
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:100%;
+  color:#CCC;
+  background:#333;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
 #Paragraph {
   font-family: Verdana;
   text-align: center;
