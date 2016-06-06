@@ -1,17 +1,14 @@
+/* This is the Title */
 #Title {
   font-family: Verdana;
   font-style: italic;
   font-size: 60px;
   color: white;
   position: middle;
+  text-align: center;
 }
 
-.center {
-  margin: auto;
-  width: 60%;
-  padding: 10px;
-}
-
+/* This is the paragraph */
 #intro {
   font-family: Verdana;
   font-style: italic;
@@ -63,6 +60,9 @@
     text-align: right;
 }
 
+#PhotoImage {
+  text-align: center;
+}
 /* Links inside the dropdown */
 .dropdown-content a {
     font-family: Verdana;
