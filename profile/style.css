@@ -28,6 +28,7 @@ div#fixedheader {
 #Logo {
   font-family: Verdana;
   text-align: center;
+  float: right;
 }
 
 a:link {
