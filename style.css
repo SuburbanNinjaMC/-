@@ -60,7 +60,7 @@
     text-align: right;
 }
 
-#PhotoImage {
+img {
   display: block;
   margin: 0 auto;
 }
