@@ -20,6 +20,10 @@ div#fixedheader {
   font-family: Verdana;
 }
 
+#Logo {
+  font-family: Verdana;
+}
+
 a:link {
     text-decoration: none;
     color: white;
@@ -31,12 +35,12 @@ a:visited {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: green;
 }
 
 a:active {
-    text-decoration: underline;
+    text-decoration: none;
     color: blue;
 }
 
