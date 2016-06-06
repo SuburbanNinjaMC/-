@@ -16,8 +16,13 @@ div#fixedheader {
   padding-bottom:20px;
 }
 
+.Header {
+  text-align: center;
+}
+
 #Home {
   font-family: Verdana;
+  display: inline-block;
 }
 
 #Logo {
