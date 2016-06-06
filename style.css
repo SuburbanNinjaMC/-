@@ -72,7 +72,8 @@ div#fixedheader {
 
 img {
   display: block;
-  margin: 0 auto;
+  margin: auto;
+  margin-bottom: 50px;
 }
 /* Links inside the dropdown */
 .dropdown-content a {
