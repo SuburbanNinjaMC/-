@@ -2,8 +2,7 @@
  <html>
  <head>
  </head>
- <body>
- <div id="fixedheader">
+ <body
     <div style = "float:right;">
       <div class="dropdown">
         <button class="dropbtn">YourName</button>
