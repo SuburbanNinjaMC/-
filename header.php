@@ -1,6 +1,7 @@
  <!DOCTYPE html>
  <html>
  <head>
+  <link rel="stylesheet" type="text/css" name="header.css">
  </head>
  <body>
  <div id="fixedheader">
